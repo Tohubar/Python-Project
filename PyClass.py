@@ -62,7 +62,7 @@ P1 = Person("Tohubar", 21, "Student")
 P2 = Person("Abdullah", 24, "Actor")
 P3 = Person("Khairul", 34)
 
-
+P1.showDetail()
 P1.pushVaccine(astra)
 P1.showDetail()
 P1.pushVaccine(sin, "2nd dose")
